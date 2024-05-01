@@ -302,7 +302,7 @@ font-family: 'Open Sans', sans-serif;
 /* main slider */
 .slider-container{
    
-     background-image:url(../images/bg.jpg);
+     background-image:url(images/bg.jpg);
     background-size: cover;
     position: relative;
     padding-top:20px;
