@@ -383,7 +383,7 @@ font-family: 'Open Sans', sans-serif;
 #prev-slide {left: 2rem;}
 /* heading */
 .heading{
-  background:url(../images/bgb.png) no-repeat;
+  background:url(../images/bgb1.png) no-repeat;
   background-size:cover;
   background-color:var(--baby-yello);
   background-position:center;
